@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Warning.unity
+    guid: 6e19d4f6b81674d009c10e8b05029258
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: d927a5ba7254b4247b43cec0cc3b73da
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 369997c9c5f1b46f6bb4575126dca6c4
+  - enabled: 1
+    path: Assets/Scenes/DefaultLevel.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Day 1 Night.unity
+    guid: 257598126545443d38102756ce3bb048
+  - enabled: 1
+    path: Assets/Scenes/Day Horror Found Night.unity
+    guid: 76e154a61057e4ae58bbf276627928db
+  - enabled: 1
+    path: Assets/Scenes/Second Last Monologue.unity
+    guid: 05ca696bafeaa4d069eae22ae8542b8e
+  - enabled: 1
+    path: Assets/Scenes/Final Level.unity
+    guid: e6f6af66ad4314a91bf90c340ad2d0ce
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 71ad1ac3c81a24fb691b04e8e251c234
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
