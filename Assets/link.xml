@@ -1,0 +1,9 @@
+<!-- Keep the engine modules the game only creates from code (physics joints/effectors, UI, audio). -->
+<linker>
+  <assembly fullname="UnityEngine.CoreModule" preserve="all"/>
+  <assembly fullname="UnityEngine.Physics2DModule" preserve="all"/>
+  <assembly fullname="UnityEngine.UIModule" preserve="all"/>
+  <assembly fullname="UnityEngine.AudioModule" preserve="all"/>
+  <assembly fullname="UnityEngine.TextRenderingModule" preserve="all"/>
+  <assembly fullname="UnityEngine.UI" preserve="all"/>
+</linker>

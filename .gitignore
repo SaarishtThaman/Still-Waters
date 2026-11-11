@@ -97,3 +97,10 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Remake
+/[Cc]aptures/
+ArtSource/radio/music_src/
+ArtSource/radio/.venv/
+__pycache__/
+.DS_Store
